@@ -2,7 +2,7 @@ About:
 -------
 Test 2
 
-Contains project (GUI application) `web_sercher` - search the keyword through URLs
+Contains project (GUI application) `web_searcher` - search the keyword through URLs
 
 Depends:
 -------
